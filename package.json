@@ -1,0 +1,11 @@
+{
+  "name": "007_custom_music",
+  "version": "1.0.0",
+  "description": "Custom Music Bot For 007",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tyson",
+  "license": "ISC"
+}
