@@ -3,8 +3,8 @@ const { MessageEmbed } = require("discord.js");
 const ms = require("ms")
 const empty_begining = "["
 const emptyend = "]"
-const emptyframe  = "keep a emoji"
-const filled = "keep a emoji"
+const emptyframe  = "<:stolen_emoji:1033731131012554762>"
+const filled = "<:stolen_emoji:1033731681124896878>i"
 
 
 function getMember(message, toFind = "") {
