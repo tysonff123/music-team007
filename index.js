@@ -1,7 +1,6 @@
 const {Client, intents, WebhookClient, MessageEmbed, MessageActionRow, MessageButton, Collection} = require("discord.js");
 const { readdirSync } = require("fs");
 const express = require(`express`);
-const Cluster = require('discord-hybrid-sharding');
 const Discord = require('discord.js');
 
 const db = require(`./main/schema/prefix`);
