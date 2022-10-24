@@ -31,7 +31,7 @@ const client = new Client({
 
 module.exports = client;
 client.commands = new Collection();
-client.alex = new Collection();
+client.tyson = new Collection();
 client.sls = new Collection();
 client.config = require("./config.json");
 client.owner = client.config.ownerID;
