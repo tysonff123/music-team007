@@ -1,5 +1,4 @@
 const { Client } = require("discord.js");
-const chalk = require("chalk");
 const array = [];
 const mongoose = require('mongoose');
 const { Manager } = require("erela.js");
